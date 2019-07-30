@@ -1,0 +1,7 @@
+{
+  "Resources":{
+    "cfntest0013":{
+      "Type":"AWS::S3::Bucket"
+    }
+  }
+}
